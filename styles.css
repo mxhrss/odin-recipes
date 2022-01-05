@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Overpass&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Indie+Flower&display=swap');
+
+html{
+    font-family: 'Overpass', sans-serif;
+}
+
+h1,h2,h3,h4{
+    font-weight: bold;
+    color:purple;
+}
+
+.heading{
+    font-size: 62px; 
+    font-family: 'Amatic SC', cursive;
+}
